@@ -1,0 +1,6 @@
+{
+  "name": "Renault Duster Showroom India",
+  "description": "Official-grade Renault Duster dealership showroom experience featuring variant comparisons, interactive gallery, EMI calculator, test drive booking, and WhatsApp enquiry integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
